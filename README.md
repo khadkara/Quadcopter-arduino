@@ -8,7 +8,7 @@ ________
 
 Radio Control.
 Reading raw pitch Yaw from the 9DOF sensor https://www.sparkfun.com/products/10724 <br />
-Motor Control.  <br>
+Motor Control.  
 
 
 Doesn't Work
