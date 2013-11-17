@@ -6,7 +6,7 @@ Quadcopter based on Arduino [Work In Progress]
 Works
 ________
 
-Radio Control.
+Radio Control.<br />
 Reading raw pitch Yaw from the 9DOF sensor https://www.sparkfun.com/products/10724 <br />
 Motor Control.  
 
